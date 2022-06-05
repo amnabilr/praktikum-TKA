@@ -1,2 +1,2 @@
 # praktikum-TKA
-Praktikum Teknologi dan Kecerdasan Artifisial semester 4 (ATA 2020/2021)
+Praktikum Teknologi dan Kecerdasan Artifisial semester 5 (ATA 2020/2021)
